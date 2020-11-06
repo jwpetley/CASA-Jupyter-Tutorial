@@ -1,0 +1,43 @@
+2020-11-06 19:32:08	INFO	listobs::::	
+2020-11-06 19:32:08	INFO	listobs::::+	##########################################
+2020-11-06 19:32:08	INFO	listobs::::+	##### Begin Task: listobs            #####
+2020-11-06 19:32:08	INFO	listobs::::	listobs(vis="/home/jupyter/data/ec067c.ms",selectdata=True,spw="",field="",antenna="",
+2020-11-06 19:32:08	INFO	listobs::::+	        uvrange="",timerange="",correlation="",scan="",intent="",
+2020-11-06 19:32:08	INFO	listobs::::+	        feed="",array="",observation="",verbose=True,listfile="/home/jupyter/data/ec067c.listobs",
+2020-11-06 19:32:08	INFO	listobs::::+	        listunfl=False,cachesize=50,overwrite=True)
+2020-11-06 19:32:08	INFO	listobs::ms::summary	Writing output to file: /home/jupyter/data/ec067c.listobs
+2020-11-06 19:32:08	INFO	listobs::MSMetaData::_computeScanAndSubScanProperties 	Computing scan and subscan properties...
+2020-11-06 19:32:12	INFO	listobs::::	##### End Task: listobs              #####
+2020-11-06 19:32:12	INFO	listobs::::+	##########################################
+2020-11-06 19:32:12	INFO	plotants::::	
+2020-11-06 19:32:12	INFO	plotants::::+	##########################################
+2020-11-06 19:32:12	INFO	plotants::::+	##### Begin Task: plotants           #####
+2020-11-06 19:32:12	INFO	plotants::::	plotants(vis="/home/jupyter/data/ec067c.ms",figfile="",antindex=False,logpos=False,exclude="",
+2020-11-06 19:32:12	INFO	plotants::::+	        checkbaselines=False,title="",showgui=True)
+2020-11-06 19:32:13	INFO	msmetadata_cmpt.cc::open	Performing internal consistency checks on /home/jupyter/data/ec067c.ms...
+2020-11-06 19:32:13	INFO	plotants::::	Number of points being plotted: 15
+2020-11-06 19:32:13	INFO	plotants::::	##### End Task: plotants             #####
+2020-11-06 19:32:13	INFO	plotants::::+	##########################################
+2020-11-06 19:32:20	INFO	plotms::::	
+2020-11-06 19:32:20	INFO	plotms::::+	##########################################
+2020-11-06 19:32:20	INFO	plotms::::+	##### Begin Task: plotms             #####
+2020-11-06 19:32:20	INFO	plotms::::	plotms(vis="/home/jupyter/data/ec067c.ms",gridrows=1,gridcols=1,rowindex=0,colindex=0,
+2020-11-06 19:32:20	INFO	plotms::::+	        plotindex=0,xaxis="frequency",xdatacolumn="",xframe="",xinterp="",
+2020-11-06 19:32:20	INFO	plotms::::+	        yaxis="phase",ydatacolumn="",yframe="",yinterp="",yaxislocation="",
+2020-11-06 19:32:20	INFO	plotms::::+	        selectdata=True,field="",spw="",timerange="",uvrange="",
+2020-11-06 19:32:20	INFO	plotms::::+	        antenna="EF",scan="27",correlation="ll",array="",observation="",
+2020-11-06 19:32:20	INFO	plotms::::+	        intent="",feed="",msselect="",averagedata=True,avgchannel="",
+2020-11-06 19:32:20	INFO	plotms::::+	        avgtime="30",avgscan=False,avgfield=False,avgbaseline=False,avgantenna=False,
+2020-11-06 19:32:20	INFO	plotms::::+	        avgspw=False,scalar=False,transform=True,freqframe="",restfreq="",
+2020-11-06 19:32:20	INFO	plotms::::+	        veldef="RADIO",shift=[0.0, 0.0],extendflag=False,extcorr=False,extchannel=False,
+2020-11-06 19:32:20	INFO	plotms::::+	        iteraxis="",xselfscale=False,yselfscale=False,xsharedaxis=False,ysharedaxis=False,
+2020-11-06 19:32:20	INFO	plotms::::+	        customsymbol=False,symbolshape="autoscaling",symbolsize=2,symbolcolor="0000ff",symbolfill="fill",
+2020-11-06 19:32:20	INFO	plotms::::+	        symboloutline=False,coloraxis="baseline",customflaggedsymbol=False,flaggedsymbolshape="circle",flaggedsymbolsize=2,
+2020-11-06 19:32:20	INFO	plotms::::+	        flaggedsymbolcolor="ff0000",flaggedsymbolfill="fill",flaggedsymboloutline=False,xconnector="",timeconnector=False,
+2020-11-06 19:32:20	INFO	plotms::::+	        plotrange=[],title="",titlefont=0,xlabel="",xaxisfont=0,
+2020-11-06 19:32:20	INFO	plotms::::+	        ylabel="",yaxisfont=0,showmajorgrid=False,majorwidth=1,majorstyle="",
+2020-11-06 19:32:20	INFO	plotms::::+	        majorcolor="B0B0B0",showminorgrid=False,minorwidth=1,minorstyle="",minorcolor="D0D0D0",
+2020-11-06 19:32:20	INFO	plotms::::+	        showlegend=False,legendposition="",plotfile="plotms_temp.png",expformat="",verbose=True,
+2020-11-06 19:32:20	INFO	plotms::::+	        exprange="",highres=False,dpi=-1,width=-1,height=-1,
+2020-11-06 19:32:20	INFO	plotms::::+	        overwrite=True,showgui=False,clearplots=True,callib=[''],headeritems="",
+2020-11-06 19:32:20	INFO	plotms::::+	        showatm=False,showtsky=False,showimage=False)

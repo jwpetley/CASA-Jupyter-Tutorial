@@ -1,0 +1,188 @@
+2020-11-06 20:12:15	INFO	listobs::::	
+2020-11-06 20:12:15	INFO	listobs::::+	##########################################
+2020-11-06 20:12:15	INFO	listobs::::+	##### Begin Task: listobs            #####
+2020-11-06 20:12:15	INFO	listobs::::	listobs(vis="/home/jupyter/data/ec067c.ms",selectdata=True,spw="",field="",antenna="",
+2020-11-06 20:12:15	INFO	listobs::::+	        uvrange="",timerange="",correlation="",scan="",intent="",
+2020-11-06 20:12:15	INFO	listobs::::+	        feed="",array="",observation="",verbose=True,listfile="/home/jupyter/data/ec067c.listobs",
+2020-11-06 20:12:15	INFO	listobs::::+	        listunfl=False,cachesize=50,overwrite=True)
+2020-11-06 20:12:17	INFO	listobs::ms::summary	Writing output to file: /home/jupyter/data/ec067c.listobs
+2020-11-06 20:12:17	INFO	listobs::MSMetaData::_computeScanAndSubScanProperties 	Computing scan and subscan properties...
+2020-11-06 20:12:19	INFO	listobs::::	##### End Task: listobs              #####
+2020-11-06 20:12:19	INFO	listobs::::+	##########################################
+2020-11-06 20:12:20	INFO	plotants::::	
+2020-11-06 20:12:20	INFO	plotants::::+	##########################################
+2020-11-06 20:12:20	INFO	plotants::::+	##### Begin Task: plotants           #####
+2020-11-06 20:12:20	INFO	plotants::::	plotants(vis="/home/jupyter/data/ec067c.ms",figfile="",antindex=False,logpos=False,exclude="",
+2020-11-06 20:12:20	INFO	plotants::::+	        checkbaselines=False,title="",showgui=True)
+2020-11-06 20:12:21	INFO	msmetadata_cmpt.cc::open	Performing internal consistency checks on /home/jupyter/data/ec067c.ms...
+2020-11-06 20:12:21	INFO	plotants::::	Number of points being plotted: 15
+2020-11-06 20:12:21	INFO	plotants::::	##### End Task: plotants             #####
+2020-11-06 20:12:21	INFO	plotants::::+	##########################################
+2020-11-06 20:12:22	INFO	plotms::::	
+2020-11-06 20:12:22	INFO	plotms::::+	##########################################
+2020-11-06 20:12:22	INFO	plotms::::+	##### Begin Task: plotms             #####
+2020-11-06 20:12:22	INFO	plotms::::	plotms(vis="/home/jupyter/data/ec067c.ms",gridrows=1,gridcols=1,rowindex=0,colindex=0,
+2020-11-06 20:12:22	INFO	plotms::::+	        plotindex=0,xaxis="frequency",xdatacolumn="",xframe="",xinterp="",
+2020-11-06 20:12:22	INFO	plotms::::+	        yaxis="phase",ydatacolumn="",yframe="",yinterp="",yaxislocation="",
+2020-11-06 20:12:22	INFO	plotms::::+	        selectdata=True,field="",spw="",timerange="",uvrange="",
+2020-11-06 20:12:22	INFO	plotms::::+	        antenna="EF",scan="27",correlation="ll",array="",observation="",
+2020-11-06 20:12:22	INFO	plotms::::+	        intent="",feed="",msselect="",averagedata=True,avgchannel="",
+2020-11-06 20:12:22	INFO	plotms::::+	        avgtime="30",avgscan=False,avgfield=False,avgbaseline=False,avgantenna=False,
+2020-11-06 20:12:22	INFO	plotms::::+	        avgspw=False,scalar=False,transform=True,freqframe="",restfreq="",
+2020-11-06 20:12:22	INFO	plotms::::+	        veldef="RADIO",shift=[0.0, 0.0],extendflag=False,extcorr=False,extchannel=False,
+2020-11-06 20:12:22	INFO	plotms::::+	        iteraxis="",xselfscale=False,yselfscale=False,xsharedaxis=False,ysharedaxis=False,
+2020-11-06 20:12:22	INFO	plotms::::+	        customsymbol=False,symbolshape="autoscaling",symbolsize=2,symbolcolor="0000ff",symbolfill="fill",
+2020-11-06 20:12:22	INFO	plotms::::+	        symboloutline=False,coloraxis="baseline",customflaggedsymbol=False,flaggedsymbolshape="circle",flaggedsymbolsize=2,
+2020-11-06 20:12:22	INFO	plotms::::+	        flaggedsymbolcolor="ff0000",flaggedsymbolfill="fill",flaggedsymboloutline=False,xconnector="",timeconnector=False,
+2020-11-06 20:12:22	INFO	plotms::::+	        plotrange=[],title="",titlefont=0,xlabel="",xaxisfont=0,
+2020-11-06 20:12:22	INFO	plotms::::+	        ylabel="",yaxisfont=0,showmajorgrid=False,majorwidth=1,majorstyle="",
+2020-11-06 20:12:22	INFO	plotms::::+	        majorcolor="B0B0B0",showminorgrid=False,minorwidth=1,minorstyle="",minorcolor="D0D0D0",
+2020-11-06 20:12:22	INFO	plotms::::+	        showlegend=False,legendposition="",plotfile="plotms_temp.png",expformat="",verbose=True,
+2020-11-06 20:12:22	INFO	plotms::::+	        exprange="",highres=False,dpi=-1,width=-1,height=-1,
+2020-11-06 20:12:22	INFO	plotms::::+	        overwrite=True,showgui=False,clearplots=True,callib=[''],headeritems="",
+2020-11-06 20:12:22	INFO	plotms::::+	        showatm=False,showtsky=False,showimage=False)
+2020-11-06 20:12:25	INFO	PlotMS::params_changed	Updating: REDRAW, MSDATA, CACHE, AXES, CANVAS, DISPLAY, PAGEHEADER, ITERATION, LOG, PLOTMS_OPTIONS.
+2020-11-06 20:12:25	INFO	PlotMS::load_cache	Clearing the existing plotms cache.
+2020-11-06 20:12:25	INFO	PlotMS::params_changed	Updating: REDRAW, MSDATA, CACHE, AXES, CANVAS, DISPLAY, PAGEHEADER, ITERATION, LOG, PLOTMS_OPTIONS.
+2020-11-06 20:12:25	INFO	PlotMS::load_cache	Clearing the existing plotms cache.
+2020-11-06 20:12:25	INFO	PlotMS::load_cache	START     Current memory usage: 2283.58 kilobytes.
+2020-11-06 20:12:26	INFO	PlotMS::load_cache	Plotting table ec067c.ms
+2020-11-06 20:12:26	INFO	PlotMS::load_cache	  Selection: antenna: EF, scan: 27, corr: ll
+2020-11-06 20:12:26	INFO	PlotMS::load_cache	Data Averaging: 
+2020-11-06 20:12:26	INFO	PlotMS::load_cache+	 Using VECTOR averaging.
+2020-11-06 20:12:26	INFO	PlotMS::load_cache+	 Time: 30 seconds.  Scan: false;  Field: false
+2020-11-06 20:12:26	INFO	PlotMS::load_cache	Caching for the new plot: Phase(18):data vs. Frequency(6)...
+2020-11-06 20:12:33	INFO	PlotMS::load_cache	Loading page header cache
+2020-11-06 20:12:54	INFO	PlotMS::load_cache	Data selection will yield a total of 26624 plottable points (flagged and unflagged).
+2020-11-06 20:12:54	INFO	PlotMS::load_cache+	The plotms cache will require an estimated 0.000196352 GB of memory (7.375 bytes/point).
+2020-11-06 20:12:54	INFO	PlotMS::load_cache+	This is 0.00964588% of the memory avail. to CASA (2.0356 GB).
+2020-11-06 20:12:55	INFO	PlotMS::load_cache	Loading chunks......
+2020-11-06 20:13:02	SEVERE	plotms::::	There was a problem updating the plot.
+2020-11-06 20:13:02	INFO	plotms::::	##### End Task: plotms               #####
+2020-11-06 20:13:02	INFO	plotms::::+	##########################################
+2020-11-06 20:13:24	INFO	plotms::::	
+2020-11-06 20:13:24	INFO	plotms::::+	##########################################
+2020-11-06 20:13:24	INFO	plotms::::+	##### Begin Task: plotms             #####
+2020-11-06 20:13:24	INFO	plotms::::	plotms(vis="/home/jupyter/data/ec067c.ms",gridrows=1,gridcols=1,rowindex=0,colindex=0,
+2020-11-06 20:13:24	INFO	plotms::::+	        plotindex=0,xaxis="frequency",xdatacolumn="",xframe="",xinterp="",
+2020-11-06 20:13:24	INFO	plotms::::+	        yaxis="phase",ydatacolumn="",yframe="",yinterp="",yaxislocation="",
+2020-11-06 20:13:24	INFO	plotms::::+	        selectdata=True,field="",spw="",timerange="",uvrange="",
+2020-11-06 20:13:24	INFO	plotms::::+	        antenna="EF",scan="27",correlation="ll",array="",observation="",
+2020-11-06 20:13:24	INFO	plotms::::+	        intent="",feed="",msselect="",averagedata=True,avgchannel="",
+2020-11-06 20:13:24	INFO	plotms::::+	        avgtime="100",avgscan=False,avgfield=False,avgbaseline=False,avgantenna=False,
+2020-11-06 20:13:24	INFO	plotms::::+	        avgspw=False,scalar=False,transform=True,freqframe="",restfreq="",
+2020-11-06 20:13:24	INFO	plotms::::+	        veldef="RADIO",shift=[0.0, 0.0],extendflag=False,extcorr=False,extchannel=False,
+2020-11-06 20:13:24	INFO	plotms::::+	        iteraxis="",xselfscale=False,yselfscale=False,xsharedaxis=False,ysharedaxis=False,
+2020-11-06 20:13:24	INFO	plotms::::+	        customsymbol=False,symbolshape="autoscaling",symbolsize=2,symbolcolor="0000ff",symbolfill="fill",
+2020-11-06 20:13:24	INFO	plotms::::+	        symboloutline=False,coloraxis="baseline",customflaggedsymbol=False,flaggedsymbolshape="circle",flaggedsymbolsize=2,
+2020-11-06 20:13:24	INFO	plotms::::+	        flaggedsymbolcolor="ff0000",flaggedsymbolfill="fill",flaggedsymboloutline=False,xconnector="",timeconnector=False,
+2020-11-06 20:13:24	INFO	plotms::::+	        plotrange=[],title="",titlefont=0,xlabel="",xaxisfont=0,
+2020-11-06 20:13:24	INFO	plotms::::+	        ylabel="",yaxisfont=0,showmajorgrid=False,majorwidth=1,majorstyle="",
+2020-11-06 20:13:24	INFO	plotms::::+	        majorcolor="B0B0B0",showminorgrid=False,minorwidth=1,minorstyle="",minorcolor="D0D0D0",
+2020-11-06 20:13:24	INFO	plotms::::+	        showlegend=False,legendposition="",plotfile="plotms_temp.png",expformat="",verbose=True,
+2020-11-06 20:13:24	INFO	plotms::::+	        exprange="",highres=False,dpi=-1,width=-1,height=-1,
+2020-11-06 20:13:24	INFO	plotms::::+	        overwrite=True,showgui=False,clearplots=True,callib=[''],headeritems="",
+2020-11-06 20:13:24	INFO	plotms::::+	        showatm=False,showtsky=False,showimage=False)
+2020-11-06 20:13:25	INFO	PlotMS::params_changed	Updating: REDRAW, MSDATA, CACHE, AXES, CANVAS, DISPLAY, PAGEHEADER, ITERATION, LOG, PLOTMS_OPTIONS.
+2020-11-06 20:13:25	INFO	PlotMS::load_cache	Clearing the existing plotms cache.
+2020-11-06 20:13:25	INFO	PlotMS::params_changed	Updating: REDRAW, MSDATA, CACHE, AXES, CANVAS, DISPLAY, PAGEHEADER, ITERATION, LOG, PLOTMS_OPTIONS.
+2020-11-06 20:13:25	INFO	PlotMS::load_cache	Clearing the existing plotms cache.
+2020-11-06 20:13:25	INFO	PlotMS::load_cache	START     Current memory usage: 2282 kilobytes.
+2020-11-06 20:13:25	INFO	PlotMS::load_cache	Plotting table ec067c.ms
+2020-11-06 20:13:25	INFO	PlotMS::load_cache	  Selection: antenna: EF, scan: 27, corr: ll
+2020-11-06 20:13:25	INFO	PlotMS::load_cache	Data Averaging: 
+2020-11-06 20:13:25	INFO	PlotMS::load_cache+	 Using VECTOR averaging.
+2020-11-06 20:13:25	INFO	PlotMS::load_cache+	 Time: 100 seconds.  Scan: false;  Field: false
+2020-11-06 20:13:25	INFO	PlotMS::load_cache	Caching for the new plot: Phase(18):data vs. Frequency(6)...
+2020-11-06 20:13:32	INFO	PlotMS::load_cache	Loading page header cache
+2020-11-06 20:13:53	INFO	PlotMS::load_cache	Data selection will yield a total of 9984 plottable points (flagged and unflagged).
+2020-11-06 20:13:53	INFO	PlotMS::load_cache+	The plotms cache will require an estimated 7.3632e-05 GB of memory (7.375 bytes/point).
+2020-11-06 20:13:53	INFO	PlotMS::load_cache+	This is 0.00361721% of the memory avail. to CASA (2.0356 GB).
+2020-11-06 20:13:54	INFO	PlotMS::load_cache	Loading chunks......
+2020-11-06 20:13:56	SEVERE	plotms::::	There was a problem updating the plot.
+2020-11-06 20:13:56	INFO	plotms::::	##### End Task: plotms               #####
+2020-11-06 20:13:56	INFO	plotms::::+	##########################################
+2020-11-06 20:14:55	INFO	plotms::::	
+2020-11-06 20:14:55	INFO	plotms::::+	##########################################
+2020-11-06 20:14:55	INFO	plotms::::+	##### Begin Task: plotms             #####
+2020-11-06 20:14:55	INFO	plotms::::	plotms(vis="/home/jupyter/data/ec067c.ms",gridrows=1,gridcols=1,rowindex=0,colindex=0,
+2020-11-06 20:14:55	INFO	plotms::::+	        plotindex=0,xaxis="frequency",xdatacolumn="",xframe="",xinterp="",
+2020-11-06 20:14:55	INFO	plotms::::+	        yaxis="phase",ydatacolumn="",yframe="",yinterp="",yaxislocation="",
+2020-11-06 20:14:55	INFO	plotms::::+	        selectdata=True,field="",spw="",timerange="",uvrange="",
+2020-11-06 20:14:55	INFO	plotms::::+	        antenna="EF",scan="27",correlation="ll",array="",observation="",
+2020-11-06 20:14:55	INFO	plotms::::+	        intent="",feed="",msselect="",averagedata=True,avgchannel="",
+2020-11-06 20:14:55	INFO	plotms::::+	        avgtime="300",avgscan=False,avgfield=False,avgbaseline=False,avgantenna=False,
+2020-11-06 20:14:55	INFO	plotms::::+	        avgspw=False,scalar=False,transform=True,freqframe="",restfreq="",
+2020-11-06 20:14:55	INFO	plotms::::+	        veldef="RADIO",shift=[0.0, 0.0],extendflag=False,extcorr=False,extchannel=False,
+2020-11-06 20:14:55	INFO	plotms::::+	        iteraxis="",xselfscale=False,yselfscale=False,xsharedaxis=False,ysharedaxis=False,
+2020-11-06 20:14:55	INFO	plotms::::+	        customsymbol=False,symbolshape="autoscaling",symbolsize=2,symbolcolor="0000ff",symbolfill="fill",
+2020-11-06 20:14:55	INFO	plotms::::+	        symboloutline=False,coloraxis="baseline",customflaggedsymbol=False,flaggedsymbolshape="circle",flaggedsymbolsize=2,
+2020-11-06 20:14:55	INFO	plotms::::+	        flaggedsymbolcolor="ff0000",flaggedsymbolfill="fill",flaggedsymboloutline=False,xconnector="",timeconnector=False,
+2020-11-06 20:14:55	INFO	plotms::::+	        plotrange=[],title="",titlefont=0,xlabel="",xaxisfont=0,
+2020-11-06 20:14:55	INFO	plotms::::+	        ylabel="",yaxisfont=0,showmajorgrid=False,majorwidth=1,majorstyle="",
+2020-11-06 20:14:55	INFO	plotms::::+	        majorcolor="B0B0B0",showminorgrid=False,minorwidth=1,minorstyle="",minorcolor="D0D0D0",
+2020-11-06 20:14:55	INFO	plotms::::+	        showlegend=False,legendposition="",plotfile="plotms_temp.png",expformat="",verbose=True,
+2020-11-06 20:14:55	INFO	plotms::::+	        exprange="",highres=False,dpi=-1,width=-1,height=-1,
+2020-11-06 20:14:55	INFO	plotms::::+	        overwrite=True,showgui=False,clearplots=True,callib=[''],headeritems="",
+2020-11-06 20:14:55	INFO	plotms::::+	        showatm=False,showtsky=False,showimage=False)
+2020-11-06 20:14:56	INFO	PlotMS::params_changed	Updating: REDRAW, MSDATA, CACHE, AXES, CANVAS, DISPLAY, PAGEHEADER, ITERATION, LOG, PLOTMS_OPTIONS.
+2020-11-06 20:14:56	INFO	PlotMS::load_cache	Clearing the existing plotms cache.
+2020-11-06 20:14:56	INFO	PlotMS::params_changed	Updating: REDRAW, MSDATA, CACHE, AXES, CANVAS, DISPLAY, PAGEHEADER, ITERATION, LOG, PLOTMS_OPTIONS.
+2020-11-06 20:14:56	INFO	PlotMS::load_cache	Clearing the existing plotms cache.
+2020-11-06 20:14:56	INFO	PlotMS::load_cache	START     Current memory usage: 2283.31 kilobytes.
+2020-11-06 20:14:56	INFO	PlotMS::load_cache	Plotting table ec067c.ms
+2020-11-06 20:14:56	INFO	PlotMS::load_cache	  Selection: antenna: EF, scan: 27, corr: ll
+2020-11-06 20:14:56	INFO	PlotMS::load_cache	Data Averaging: 
+2020-11-06 20:14:56	INFO	PlotMS::load_cache+	 Using VECTOR averaging.
+2020-11-06 20:14:56	INFO	PlotMS::load_cache+	 Time: 300 seconds.  Scan: false;  Field: false
+2020-11-06 20:14:56	INFO	PlotMS::load_cache	Caching for the new plot: Phase(18):data vs. Frequency(6)...
+2020-11-06 20:15:03	INFO	PlotMS::load_cache	Loading page header cache
+2020-11-06 20:15:23	INFO	PlotMS::load_cache	Data selection will yield a total of 3328 plottable points (flagged and unflagged).
+2020-11-06 20:15:23	INFO	PlotMS::load_cache+	The plotms cache will require an estimated 2.4544e-05 GB of memory (7.375 bytes/point).
+2020-11-06 20:15:23	INFO	PlotMS::load_cache+	This is 0.00120574% of the memory avail. to CASA (2.0356 GB).
+2020-11-06 20:15:25	INFO	PlotMS::load_cache	Loading chunks......
+2020-11-06 20:15:27	SEVERE	plotms::::	There was a problem updating the plot.
+2020-11-06 20:15:27	INFO	plotms::::	##### End Task: plotms               #####
+2020-11-06 20:15:27	INFO	plotms::::+	##########################################
+2020-11-06 20:16:41	INFO	plotms::::	
+2020-11-06 20:16:41	INFO	plotms::::+	##########################################
+2020-11-06 20:16:41	INFO	plotms::::+	##### Begin Task: plotms             #####
+2020-11-06 20:16:41	INFO	plotms::::	plotms(vis="/home/jupyter/data/ec067c.ms",gridrows=1,gridcols=1,rowindex=0,colindex=0,
+2020-11-06 20:16:41	INFO	plotms::::+	        plotindex=0,xaxis="frequency",xdatacolumn="",xframe="",xinterp="",
+2020-11-06 20:16:41	INFO	plotms::::+	        yaxis="phase",ydatacolumn="",yframe="",yinterp="",yaxislocation="",
+2020-11-06 20:16:41	INFO	plotms::::+	        selectdata=True,field="",spw="",timerange="",uvrange="",
+2020-11-06 20:16:41	INFO	plotms::::+	        antenna="EF",scan="27",correlation="ll",array="",observation="",
+2020-11-06 20:16:41	INFO	plotms::::+	        intent="",feed="",msselect="",averagedata=True,avgchannel="",
+2020-11-06 20:16:41	INFO	plotms::::+	        avgtime="5",avgscan=False,avgfield=False,avgbaseline=False,avgantenna=False,
+2020-11-06 20:16:41	INFO	plotms::::+	        avgspw=False,scalar=False,transform=True,freqframe="",restfreq="",
+2020-11-06 20:16:41	INFO	plotms::::+	        veldef="RADIO",shift=[0.0, 0.0],extendflag=False,extcorr=False,extchannel=False,
+2020-11-06 20:16:41	INFO	plotms::::+	        iteraxis="",xselfscale=False,yselfscale=False,xsharedaxis=False,ysharedaxis=False,
+2020-11-06 20:16:41	INFO	plotms::::+	        customsymbol=False,symbolshape="autoscaling",symbolsize=2,symbolcolor="0000ff",symbolfill="fill",
+2020-11-06 20:16:41	INFO	plotms::::+	        symboloutline=False,coloraxis="baseline",customflaggedsymbol=False,flaggedsymbolshape="circle",flaggedsymbolsize=2,
+2020-11-06 20:16:41	INFO	plotms::::+	        flaggedsymbolcolor="ff0000",flaggedsymbolfill="fill",flaggedsymboloutline=False,xconnector="",timeconnector=False,
+2020-11-06 20:16:41	INFO	plotms::::+	        plotrange=[],title="",titlefont=0,xlabel="",xaxisfont=0,
+2020-11-06 20:16:41	INFO	plotms::::+	        ylabel="",yaxisfont=0,showmajorgrid=False,majorwidth=1,majorstyle="",
+2020-11-06 20:16:41	INFO	plotms::::+	        majorcolor="B0B0B0",showminorgrid=False,minorwidth=1,minorstyle="",minorcolor="D0D0D0",
+2020-11-06 20:16:41	INFO	plotms::::+	        showlegend=False,legendposition="",plotfile="plotms_temp.png",expformat="",verbose=True,
+2020-11-06 20:16:41	INFO	plotms::::+	        exprange="",highres=False,dpi=-1,width=-1,height=-1,
+2020-11-06 20:16:41	INFO	plotms::::+	        overwrite=True,showgui=False,clearplots=True,callib=[''],headeritems="",
+2020-11-06 20:16:41	INFO	plotms::::+	        showatm=False,showtsky=False,showimage=False)
+2020-11-06 20:16:42	INFO	PlotMS::params_changed	Updating: REDRAW, MSDATA, CACHE, AXES, CANVAS, DISPLAY, PAGEHEADER, ITERATION, LOG, PLOTMS_OPTIONS.
+2020-11-06 20:16:42	INFO	PlotMS::load_cache	Clearing the existing plotms cache.
+2020-11-06 20:16:42	INFO	PlotMS::params_changed	Updating: REDRAW, MSDATA, CACHE, AXES, CANVAS, DISPLAY, PAGEHEADER, ITERATION, LOG, PLOTMS_OPTIONS.
+2020-11-06 20:16:42	INFO	PlotMS::load_cache	Clearing the existing plotms cache.
+2020-11-06 20:16:42	INFO	PlotMS::load_cache	START     Current memory usage: 2284.53 kilobytes.
+2020-11-06 20:16:42	INFO	PlotMS::load_cache	Plotting table ec067c.ms
+2020-11-06 20:16:42	INFO	PlotMS::load_cache	  Selection: antenna: EF, scan: 27, corr: ll
+2020-11-06 20:16:42	INFO	PlotMS::load_cache	Data Averaging: 
+2020-11-06 20:16:42	INFO	PlotMS::load_cache+	 Using VECTOR averaging.
+2020-11-06 20:16:42	INFO	PlotMS::load_cache+	 Time: 5 seconds.  Scan: false;  Field: false
+2020-11-06 20:16:42	INFO	PlotMS::load_cache	Caching for the new plot: Phase(18):data vs. Frequency(6)...
+2020-11-06 20:16:48	INFO	PlotMS::load_cache	Loading page header cache
+2020-11-06 20:17:07	INFO	PlotMS::load_cache	Data selection will yield a total of 133120 plottable points (flagged and unflagged).
+2020-11-06 20:17:07	INFO	PlotMS::load_cache+	The plotms cache will require an estimated 0.00098176 GB of memory (7.375 bytes/point).
+2020-11-06 20:17:07	INFO	PlotMS::load_cache+	This is 0.0482294% of the memory avail. to CASA (2.0356 GB).
+2020-11-06 20:17:08	INFO	PlotMS::load_cache	Loading chunks......
+2020-11-06 20:17:11	SEVERE	plotms::::	There was a problem updating the plot.
+2020-11-06 20:17:11	INFO	plotms::::	##### End Task: plotms               #####
+2020-11-06 20:17:11	INFO	plotms::::+	##########################################
