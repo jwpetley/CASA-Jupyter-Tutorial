@@ -5393,3 +5393,21 @@
 2020-11-06 14:58:29	INFO	listobs::MSMetaData::_computeScanAndSubScanProperties 	Computing scan and subscan properties...
 2020-11-06 14:58:32	INFO	listobs::::	##### End Task: listobs              #####
 2020-11-06 14:58:32	INFO	listobs::::+	##########################################
+2020-11-06 15:02:53	INFO	plotants::::	
+2020-11-06 15:02:53	INFO	plotants::::+	##########################################
+2020-11-06 15:02:53	INFO	plotants::::+	##### Begin Task: plotants           #####
+2020-11-06 15:02:53	INFO	plotants::::	plotants(vis="/home/jupyter/data/ec067c.ms",figfile="",antindex=False,logpos=False,exclude="",
+2020-11-06 15:02:53	INFO	plotants::::+	        checkbaselines=False,title="",showgui=True)
+2020-11-06 15:02:54	INFO	msmetadata_cmpt.cc::open	Performing internal consistency checks on /home/jupyter/data/ec067c.ms...
+2020-11-06 15:02:54	INFO	plotants::::	Number of points being plotted: 15
+2020-11-06 15:02:54	INFO	plotants::::	##### End Task: plotants             #####
+2020-11-06 15:02:54	INFO	plotants::::+	##########################################
+2020-11-06 15:04:30	INFO	plotants::::	
+2020-11-06 15:04:30	INFO	plotants::::+	##########################################
+2020-11-06 15:04:30	INFO	plotants::::+	##### Begin Task: plotants           #####
+2020-11-06 15:04:30	INFO	plotants::::	plotants(vis="/home/jupyter/data/ec067c.ms",figfile="",antindex=False,logpos=False,exclude="",
+2020-11-06 15:04:30	INFO	plotants::::+	        checkbaselines=False,title="",showgui=True)
+2020-11-06 15:04:31	INFO	msmetadata_cmpt.cc::open	Performing internal consistency checks on /home/jupyter/data/ec067c.ms...
+2020-11-06 15:04:31	INFO	plotants::::	Number of points being plotted: 15
+2020-11-06 15:04:31	INFO	plotants::::	##### End Task: plotants             #####
+2020-11-06 15:04:31	INFO	plotants::::+	##########################################
