@@ -1,0 +1,20 @@
+taskname           = "listobs"
+vis                =  "/home/jupyter/data/ec067c.ms"
+selectdata         =  True
+spw                =  ""
+field              =  ""
+antenna            =  ""
+uvrange            =  ""
+timerange          =  ""
+correlation        =  ""
+scan               =  ""
+intent             =  ""
+feed               =  ""
+array              =  ""
+observation        =  ""
+verbose            =  True
+listfile           =  "/home/jupyter/data/ec067c.listobs"
+listunfl           =  False
+cachesize          =  50
+overwrite          =  False
+#listobs(vis="/home/jupyter/data/ec067c.ms",selectdata=True,spw="",field="",antenna="",uvrange="",timerange="",correlation="",scan="",intent="",feed="",array="",observation="",verbose=True,listfile="/home/jupyter/data/ec067c.listobs",listunfl=False,cachesize=50,overwrite=False)

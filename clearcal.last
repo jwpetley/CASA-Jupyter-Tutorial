@@ -1,0 +1,7 @@
+taskname           = "clearcal"
+vis                =  "/home/jupyter/data/ec067c.ms"
+field              =  ""
+spw                =  ""
+intent             =  ""
+addmodel           =  False
+#clearcal(vis="/home/jupyter/data/ec067c.ms",field="",spw="",intent="",addmodel=False)

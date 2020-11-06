@@ -1,0 +1,8 @@
+taskname           = "flagmanager"
+vis                =  "/home/jupyter/data/ec067c.ms"
+mode               =  "rename"
+versionname        =  "no_flags"
+oldname            =  "flagdata_1"
+comment            =  "Flags prior to any calibration or flagging step"
+merge              =  "replace"
+#flagmanager(vis="/home/jupyter/data/ec067c.ms",mode="rename",versionname="no_flags",oldname="flagdata_1",comment="Flags prior to any calibration or flagging step",merge="replace")
