@@ -1,7 +1,0 @@
-taskname           = "importfitsidi"
-fitsidifile        =  ['ec067c_1_1.IDI1', 'ec067c_1_1.IDI2']
-vis                =  "ec067c.ms"
-constobsid         =  True
-scanreindexgap_s    =  15.0
-specframe          =  "GEO"
-#importfitsidi(fitsidifile=['ec067c_1_1.IDI1', 'ec067c_1_1.IDI2'],vis="ec067c.ms",constobsid=True,scanreindexgap_s=15.0,specframe="GEO")
