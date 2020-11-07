@@ -1,0 +1,10 @@
+no_flags : Flags prior to any calibration or flagging step
+flagdata_2 : Flags autosave on 2020-11-07 16:20:44
+flagdata_3 : Flags autosave on 2020-11-07 16:21:12
+precal_flags.old.1604772620 : Flags from Tsys, gaincal, bad data and edge channels
+flagdata_4 : Flags autosave on 2020-11-07 18:08:11
+precal_flags.old.1604774672 : Flags from Tsys, gaincal, bad data and edge channels
+flagdata_5 : Flags autosave on 2020-11-07 18:30:30
+flagdata_6 : Flags autosave on 2020-11-07 18:42:22
+flagdata_1 : Flags autosave on 2020-11-07 18:43:37
+precal_flags : Flags from Tsys, gaincal, bad data and edge channels
