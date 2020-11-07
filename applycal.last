@@ -1,0 +1,23 @@
+taskname           = "applycal"
+vis                =  "/home/jupyter/data/eg025.ms"
+field              =  ""
+spw                =  ""
+intent             =  ""
+selectdata         =  True
+timerange          =  ""
+uvrange            =  ""
+antenna            =  ""
+scan               =  ""
+observation        =  ""
+msselect           =  ""
+docallib           =  False
+callib             =  ""
+gaintable          =  ['/home/jupyter/data/eg025.tsys', '/home/jupyter/data/eg025.gcal']
+gainfield          =  []
+interp             =  []
+spwmap             =  []
+calwt              =  [True]
+parang             =  True
+applymode          =  ""
+flagbackup         =  False
+#applycal(vis="/home/jupyter/data/eg025.ms",field="",spw="",intent="",selectdata=True,timerange="",uvrange="",antenna="",scan="",observation="",msselect="",docallib=False,callib="",gaintable=['/home/jupyter/data/eg025.tsys', '/home/jupyter/data/eg025.gcal'],gainfield=[],interp=[],spwmap=[],calwt=[True],parang=True,applymode="",flagbackup=False)

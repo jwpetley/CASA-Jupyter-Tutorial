@@ -1,0 +1,11 @@
+taskname           = "gencal"
+vis                =  "/home/jupyter/data/eg025.ms"
+caltable           =  "/home/jupyter/data/eg025.gcal"
+caltype            =  "gc"
+infile             =  "/home/jupyter/data/EVN.gc"
+spw                =  ""
+antenna            =  ""
+pol                =  ""
+parameter          =  []
+uniform            =  True
+#gencal(vis="/home/jupyter/data/eg025.ms",caltable="/home/jupyter/data/eg025.gcal",caltype="gc",infile="/home/jupyter/data/EVN.gc",spw="",antenna="",pol="",parameter=[],uniform=True)

@@ -1,0 +1,27 @@
+2020-11-07 03:15:03	INFO	::casa	
+2020-11-07 03:15:03	INFO	::casa	CASA Version PIPELINE 5.6.3-16  
+2020-11-07 03:17:59	INFO	importfitsidi::::	
+2020-11-07 03:17:59	INFO	importfitsidi::::+	##########################################
+2020-11-07 03:17:59	INFO	importfitsidi::::+	##### Begin Task: importfitsidi      #####
+2020-11-07 03:17:59	INFO	importfitsidi::::	importfitsidi(fitsidifile=['/home/jupyter/data/eg025_1_1.IDI1'],vis="/home/jupyter/data/eg025.ms",constobsid=True,scanreindexgap_s=15.0,specframe="GEO")
+2020-11-07 03:17:59	INFO	importfitsidi::::	
+2020-11-07 03:17:59	INFO	importfitsidi::::	### Reading file /home/jupyter/data/eg025_1_1.IDI1
+2020-11-07 03:18:03	INFO	FitsIDItoMS()::readFitsFile	Found binary table ARRAY_GEOMETRY
+2020-11-07 03:18:05	INFO	FitsIDItoMS::fillAntennaTable	number of antennas = 8
+2020-11-07 03:18:05	INFO	FitsIDItoMS::fillAntennaTable	array ref pos = [0, 0, 0]
+2020-11-07 03:18:05	WARN	FitsIDItoMS::fillAntennaTable	ARRAY_GEOMETRY input table does not contain dish DIAMETER column.
+2020-11-07 03:18:05	WARN	FitsIDItoMS::fillAntennaTable+	 Will assume default diameter for TELESCOPE EVN which is 0 m.
+2020-11-07 03:18:05	INFO	FitsIDItoMS::fillAntennaTable	   antenna_no 1 -> antenna ID 0
+2020-11-07 03:18:05	INFO	FitsIDItoMS::fillAntennaTable+	   antenna_no 2 -> antenna ID 1
+2020-11-07 03:18:05	INFO	FitsIDItoMS::fillAntennaTable+	   antenna_no 3 -> antenna ID 2
+2020-11-07 03:18:05	INFO	FitsIDItoMS::fillAntennaTable+	   antenna_no 4 -> antenna ID 3
+2020-11-07 03:18:05	INFO	FitsIDItoMS::fillAntennaTable+	   antenna_no 5 -> antenna ID 4
+2020-11-07 03:18:05	INFO	FitsIDItoMS::fillAntennaTable+	   antenna_no 6 -> antenna ID 5
+2020-11-07 03:18:05	INFO	FitsIDItoMS::fillAntennaTable+	   antenna_no 7 -> antenna ID 6
+2020-11-07 03:18:05	INFO	FitsIDItoMS::fillAntennaTable+	   antenna_no 8 -> antenna ID 7
+2020-11-07 03:18:05	INFO	FitsIDItoMS()::readFitsFile	Found binary table FREQUENCY
+2020-11-07 03:18:08	INFO	FitsIDItoMS()::readFitsFile	Found binary table SOURCE
+2020-11-07 03:18:11	INFO	FitsIDItoMS()::readFitsFile	Found binary table ANTENNA
+2020-11-07 03:18:13	INFO	FitsIDItoMS()::readFitsFile	Note: this ANTENNA table uses double precision for TIME_INTERVAL. Convention is single.
+2020-11-07 03:18:13	INFO	FitsIDItoMS()::readFitsFile	Found binary table UV_DATA
+2020-11-07 03:18:16	INFO	FITSUtil::fromFITSHeader 	Reading and writing visibility data

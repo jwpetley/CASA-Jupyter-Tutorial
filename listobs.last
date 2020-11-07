@@ -1,0 +1,20 @@
+taskname           = "listobs"
+vis                =  "/home/jupyter/data/eg025.ms"
+selectdata         =  True
+spw                =  ""
+field              =  ""
+antenna            =  ""
+uvrange            =  ""
+timerange          =  ""
+correlation        =  ""
+scan               =  ""
+intent             =  ""
+feed               =  ""
+array              =  ""
+observation        =  ""
+verbose            =  True
+listfile           =  "/home/jupyter/data/eg025.listobs"
+listunfl           =  False
+cachesize          =  50
+overwrite          =  True
+#listobs(vis="/home/jupyter/data/eg025.ms",selectdata=True,spw="",field="",antenna="",uvrange="",timerange="",correlation="",scan="",intent="",feed="",array="",observation="",verbose=True,listfile="/home/jupyter/data/eg025.listobs",listunfl=False,cachesize=50,overwrite=True)

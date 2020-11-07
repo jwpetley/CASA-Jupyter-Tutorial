@@ -1,0 +1,10 @@
+taskname           = "plotants"
+vis                =  "/home/jupyter/data/eg025.ms"
+figfile            =  ""
+antindex           =  False
+logpos             =  False
+exclude            =  ""
+checkbaselines     =  False
+title              =  ""
+showgui            =  True
+#plotants(vis="/home/jupyter/data/eg025.ms",figfile="",antindex=False,logpos=False,exclude="",checkbaselines=False,title="",showgui=True)
